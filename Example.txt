@@ -1,0 +1,3 @@
+modified the example.txt file 
+•	In the command-line interface, run the following
+    
