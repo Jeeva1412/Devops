@@ -3,7 +3,7 @@ name: Auto Commit Changes
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
